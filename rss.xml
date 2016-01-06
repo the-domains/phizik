@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Phizik]]></title>
+        <description><![CDATA[Phizik]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 06 Jan 2016 20:35:41 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Phizik Running Belts]]></title>
+            <description><![CDATA[<article><h1>Phizik Running Belts</h1><p>Phizik Running Belt </p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1d89b887-e204-4e15-bca9-f83aca2b7ca7.jpg"></article>]]></description>
+            <link>undefinedphizik-running-belts/index.html</link>
+            <guid isPermaLink="false">2c32e07a-c912-47f4-ac23-6c0bd00a5e76</guid>
+            <pubDate>Wed, 06 Jan 2016 20:34:49 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
